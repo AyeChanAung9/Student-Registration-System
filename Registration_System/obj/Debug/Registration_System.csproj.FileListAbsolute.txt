@@ -1,0 +1,210 @@
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.AssemblyReference.cache
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Form1.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Properties.Resources.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.GenerateResource.cache
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CoreCompileInputs.cache
+E:\C#\Registration_System\Registration_System\bin\Debug\Registration_System.exe.config
+E:\C#\Registration_System\Registration_System\bin\Debug\Registration_System.exe
+E:\C#\Registration_System\Registration_System\bin\Debug\Registration_System.pdb
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\C#\Registration_System\Registration_System\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\Registration_System\Registration_System\bin\Debug\MaterialSkin.dll
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\C#\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CopyComplete
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.exe
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.pdb
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_login.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Login.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Login.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Register.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Profile.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.student_view.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_dashbook.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlSearch.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlUpdateDelete.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.Manage_Account.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.control.Student_View.resources
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.StudentCard.resources
+E:\C#\Registration_System\Registration_System\bin\Debug\Attendance.dll
+E:\C#\Registration_System\Registration_System\obj\Debug\Registration_System.control.UptDelStud.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe.config
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\MaterialSkin.dll
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.AssemblyReference.cache
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_dashbook.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Login.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.Student_View.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UptDelStud.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlSearch.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlUpdateDelete.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Form1.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Manage_Account.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Properties.Resources.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_login.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.StudentCard.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Login.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Profile.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Register.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.student_view.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.GenerateResource.cache
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CopyComplete
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.exe
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_Acc_Manage.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Acc_Manage.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe.config
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.pdb
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\MaterialSkin.dll
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.AssemblyReference.cache
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Acc_Manage.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_dashbook.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Login.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.Student_View.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UptDelStud.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlSearch.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlUpdateDelete.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Form1.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Manage_Account.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Properties.Resources.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_Acc_Manage.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_login.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.StudentCard.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Login.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Profile.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Register.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.student_view.resources
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.GenerateResource.cache
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CopyComplete
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.exe
+C:\Users\aungy\OneDrive\Desktop\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe.config
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\MaterialSkin.dll
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.AssemblyReference.cache
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Acc_Manage.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_dashbook.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Login.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.Student_View.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UptDelStud.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlSearch.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UserControlUpdateDelete.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Form1.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Manage_Account.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Properties.Resources.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_Acc_Manage.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_login.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.StudentCard.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Login.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Profile.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Register.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.student_view.resources
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.GenerateResource.cache
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CopyComplete
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.exe
+C:\Users\Lenovo T470 Thinkpad\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe.config
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.exe
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\Registration_System.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\MaterialSkin.dll
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.AssemblyReference.cache
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Acc_Manage.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_dashbook.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Login.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.Student_View.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.control.UptDelStud.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Form1.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Manage_Account.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Properties.Resources.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_Acc_Manage.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_login.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.StudentCard.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Login.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Profile.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Register.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.student_view.resources
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.GenerateResource.cache
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CopyComplete
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.exe
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\obj\Debug\Registration_System.pdb
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\itextsharp.dll
+C:\Users\MOE\Desktop\Registration_Systems\Registration_Systems\Registration_System\Registration_System\bin\Debug\itextsharp.xml
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\Registration_System.exe.config
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\Registration_System.exe
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\Registration_System.pdb
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\itextsharp.dll
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\MaterialSkin.dll
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\itextsharp.xml
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.AssemblyReference.cache
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Acc_Manage.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_dashbook.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Admin_Login.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.control.Student_View.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.control.UptDelStud.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Form1.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Manage_Account.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Properties.Resources.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_Acc_Manage.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Staff_login.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.StudentCard.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Login.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Profile.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.Student_Register.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.student_view.resources
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.GenerateResource.cache
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CoreCompileInputs.cache
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.csproj.CopyComplete
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.exe
+E:\C#\Registration_Systems Final\Registration_Systems Final\Registration_System\Registration_System\obj\Debug\Registration_System.pdb

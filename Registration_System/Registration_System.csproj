@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73DED08F-845D-4987-94A9-2110E6B9C5FD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Registration_System</RootNamespace>
+    <AssemblyName>Registration_System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Attendance">
+      <HintPath>..\..\..\Uni Docs\Attendance.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Docking">
+      <HintPath>..\..\RashiCode-Krypton_toolKitDemo\RashiCode Krypton_toolKitDemo\Krypton_toolKitDemo\bin\Debug\ComponentFactory.Krypton.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator">
+      <HintPath>..\..\RashiCode-Krypton_toolKitDemo\RashiCode Krypton_toolKitDemo\Krypton_toolKitDemo\bin\Debug\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon">
+      <HintPath>..\..\RashiCode-Krypton_toolKitDemo\RashiCode Krypton_toolKitDemo\Krypton_toolKitDemo\bin\Debug\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace">
+      <HintPath>..\..\RashiCode-Krypton_toolKitDemo\RashiCode Krypton_toolKitDemo\Krypton_toolKitDemo\bin\Debug\ComponentFactory.Krypton.Workspace.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.3.1\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin_Acc_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Acc_Manage.Designer.cs">
+      <DependentUpon>Admin_Acc_Manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control\UptDelStud.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control\UptDelStud.Designer.cs">
+      <DependentUpon>UptDelStud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login Class\AdminLog.cs" />
+    <Compile Include="Admin_dashbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_dashbook.Designer.cs">
+      <DependentUpon>Admin_dashbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Login.Designer.cs">
+      <DependentUpon>Admin_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control\Student_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control\Student_View.Designer.cs">
+      <DependentUpon>Student_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login Class\DBClass.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control\Manage_Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control\Manage_Account.Designer.cs">
+      <DependentUpon>Manage_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="regDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regDBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="regDBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>regDBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Login Class\StaffLog.cs" />
+    <Compile Include="Staff_Acc_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff_Acc_Manage.Designer.cs">
+      <DependentUpon>Staff_Acc_Manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff_login.Designer.cs">
+      <DependentUpon>Staff_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentCard.Designer.cs">
+      <DependentUpon>StudentCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Login.Designer.cs">
+      <DependentUpon>Student_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Profile.Designer.cs">
+      <DependentUpon>Student_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_Register.Designer.cs">
+      <DependentUpon>Student_Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_view.Designer.cs">
+      <DependentUpon>student_view.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin_Acc_Manage.resx">
+      <DependentUpon>Admin_Acc_Manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_dashbook.resx">
+      <DependentUpon>Admin_dashbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Login.resx">
+      <DependentUpon>Admin_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control\Student_View.resx">
+      <DependentUpon>Student_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control\UptDelStud.resx">
+      <DependentUpon>UptDelStud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control\Manage_Account.resx">
+      <DependentUpon>Manage_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Staff_Acc_Manage.resx">
+      <DependentUpon>Staff_Acc_Manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff_login.resx">
+      <DependentUpon>Staff_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentCard.resx">
+      <DependentUpon>StudentCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Login.resx">
+      <DependentUpon>Student_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Profile.resx">
+      <DependentUpon>Student_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_Register.resx">
+      <DependentUpon>Student_Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student_view.resx">
+      <DependentUpon>student_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="regDBDataSet.xsc">
+      <DependentUpon>regDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="regDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDBDataSet.xss">
+      <DependentUpon>regDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="regDBDataSet1.xsc">
+      <DependentUpon>regDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="regDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDBDataSet1.xss">
+      <DependentUpon>regDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="regDBDataSet2.xsc">
+      <DependentUpon>regDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="regDBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDBDataSet2.xss">
+      <DependentUpon>regDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="regDBDataSet3.xsc">
+      <DependentUpon>regDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="regDBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>regDBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="regDBDataSet3.xss">
+      <DependentUpon>regDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
